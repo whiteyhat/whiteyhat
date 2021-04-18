@@ -8,9 +8,9 @@
 </div>
 <br>
 <br>
-<a href="https://feisky.xyz/about">
+<a href="https://satoshis.games">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=whiteyhat&show_icons=true" />
 </a>
-<a href="https://feisky.xyz/about">
+<a href="https://satoshis.games">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteyhat&hide=html,css" />
 </a>
